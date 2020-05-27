@@ -5,7 +5,7 @@
 [![SDK Doc](https://img.shields.io/badge/docs-passing-blue.svg)](https://support.huaweicloud.com/sdk-php-devg-obs/obs_28_0101.html)
 [![Php Version](https://img.shields.io/badge/php-%3E=5.6-brightgreen.svg)](https://www.php.net)
 
-fork自[huaweicloud-sdk-php-obs](https://github.com/huaweicloud/huaweicloud-sdk-php-obs)
+fork自[huaweicloud-sdk-php-obs](https://github.com/huaweicloud/huaweicloud-sdk-php-obs)，查看变更内容：[CHANGELOG.md](https://github.com/sy-records/obs-php-sdk/blob/master/CHANGELOG.md)
 
 ## 安装
 
